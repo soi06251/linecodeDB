@@ -1,24 +1,4 @@
 {
-    "A41": [
-      {
-        "id": 1,
-        "title": "A41-number1",
-        "lifeendtime": "202211151700",
-        "lifeintime": "202210270900"
-      },
-      {
-        "id": 2,
-        "title": "A41-number2",
-        "lifeendtime": "202211201700",
-        "lifeintime": "202210101300"
-      },
-      {
-        "id": 3,
-        "title": "A41-number3",
-        "lifeendtime": "202211231000",
-        "lifeintime": "202210251000"
-      }
-    ],
   "A51": [
     {
       "id": 1,
